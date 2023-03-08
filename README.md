@@ -1,2 +1,2 @@
 # IMDb
-IMDb by Charan
+IMDb by Durvesh Yadav
